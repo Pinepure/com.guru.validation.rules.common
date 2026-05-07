@@ -1,0 +1,10 @@
+{
+  "name": "com.guru.validation.rules.common",
+  "displayName": "Guru Validation Common Rules",
+  "description": "跨项目通用的 Unity 校验规则集合。Requires com.guru.validation.platform.",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.guru.validation.platform": "0.1.0"
+  }
+}
