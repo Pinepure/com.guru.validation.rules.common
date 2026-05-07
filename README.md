@@ -16,8 +16,8 @@
 ```json
 {
   "dependencies": {
-    "com.guru.validation.platform": "https://github.com/<your-org>/com.guru.validation.platform.git",
-    "com.guru.validation.rules.common": "https://github.com/<your-org>/com.guru.validation.rules.common.git"
+    "com.guru.validation.platform": "https://github.com/Pinepure/com.guru.validation.platform.git",
+    "com.guru.validation.rules.common": "https://github.com/Pinepure/com.guru.validation.rules.common.git"
   }
 }
 ```
